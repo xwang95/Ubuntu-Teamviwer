@@ -1,0 +1,2 @@
+sudo systemctl stop teamviewerd.service
+sudo systemctl start teamviewerd.service
